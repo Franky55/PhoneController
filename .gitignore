@@ -1,0 +1,9 @@
+# PlatformIO
+esp32_firmware/.pio/
+esp32_firmware/.vscode/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
