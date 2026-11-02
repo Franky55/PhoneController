@@ -7,3 +7,6 @@ esp32_firmware/.vscode/
 Thumbs.db
 .idea/
 *.iml
+
+# Gradle output
+esp_control/android/build/
