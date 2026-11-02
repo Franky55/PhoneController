@@ -10,3 +10,6 @@ Thumbs.db
 
 # Gradle output
 esp_control/android/build/
+
+# Release APKs (published as GitHub Release assets)
+dist/
